@@ -51,7 +51,7 @@ const Education = () => {
             type="Higher Secondary School Certificate"
             place="Adamjee Cantonment College (ACC)"
             time="2016-2018"
-            info="Get all the basic education of sciene."
+            info="A transformative two-year program equipping students with essential knowledge and skills for academic and professional success."
           />
         </ul>
       </div>

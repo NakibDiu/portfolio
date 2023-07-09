@@ -54,39 +54,7 @@ const Experience = () => {
             companyLink="https://lander.orderbot.xyz"
             time="2022-2023"
             address="Dhaka, Bangladesh"
-            work="Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-            share short-form video content, including designing and implementing a new user interface and developing 
-            the backend infrastructure to support the feature."
-          />
-          <Details
-            position="Junior Frontend Developer"
-            company="Orderbot"
-            companyLink="https://lander.orderbot.xyz"
-            time="2022-2023"
-            address="Dhaka, Bangladesh"
-            work="Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-            share short-form video content, including designing and implementing a new user interface and developing 
-            the backend infrastructure to support the feature."
-          />
-          <Details
-            position="Junior Frontend Developer"
-            company="Orderbot"
-            companyLink="https://lander.orderbot.xyz"
-            time="2022-2023"
-            address="Dhaka, Bangladesh"
-            work="Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-            share short-form video content, including designing and implementing a new user interface and developing 
-            the backend infrastructure to support the feature."
-          />
-          <Details
-            position="Junior Frontend Developer"
-            company="Orderbot"
-            companyLink="https://lander.orderbot.xyz"
-            time="2022-2023"
-            address="Dhaka, Bangladesh"
-            work="Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-            share short-form video content, including designing and implementing a new user interface and developing 
-            the backend infrastructure to support the feature."
+            work="Worked on a team responsible for developing a new web app that allowed users to add their shop products for customers. Sellers and Buyers have two different website and have different features. A dashboard website for the sellers where they can view orders, total sells and many more info using charts. The customer have a shopping website like any onther e-commerce website having add to cart, search and filter products."
           />
         </ul>
       </div>

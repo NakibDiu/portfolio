@@ -43,7 +43,7 @@ export default function Home({}) {
 
               <div className="flex items-center self-start gap-4 lg:self-center">
                 <Link
-                  href="/dummy.pdf"
+                  href="/resume.pdf"
                   target="_blank"
                   className="bg-dark text-light flex items-center p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light md:p-2 md:px-4 md:text-base"
                   download={true}
